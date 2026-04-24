@@ -11,7 +11,5 @@ This project is a simple and interactive Hangman Game built using Python. In thi
 # Technology Used
 - Python
 
-# How to Run
-Run the Python file:
-python hangman game.py
+
 
